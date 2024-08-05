@@ -2,8 +2,8 @@ const items = [
     {
         id: '001',
         image: 'images/1.jpg',
-        company: 'Carlton London',
-        item_name: 'Rhodium-Plated CZ Floral Studs',
+        company: 'Sonata',
+        item_name: 'Watch',
         original_price: 1045,
         current_price: 606,
         discount_percentage: 42,
@@ -17,11 +17,11 @@ const items = [
     {
         id: '002',
         image: 'images/2.jpg',
-        company: 'CUKOO',
-        item_name: 'Women Padded Halter Neck Swimming Dress',
-        original_price: 2599,
-        current_price: 1507,
-        discount_percentage: 42,
+        company: 'Dettol ',
+        item_name: 'Dettol',
+        original_price: 120,
+        current_price: 100,
+        discount_percentage: 18,
         return_period: 14,
         delivery_date: '10 Oct 2023',
         rating: {
@@ -33,7 +33,7 @@ const items = [
         id: '003',
         image: 'images/03.jpg',
         company: 'NUEVOSDAMAS',
-        item_name: 'Women Red & White Printed A-Line Knee-Length Skirts',
+        item_name: 'box',
         original_price: 1599,
         current_price: 495,
         discount_percentage: 69,
@@ -48,7 +48,7 @@ const items = [
         id: '004',
         image: 'images/04.jpg',
         company: 'ADIDAS',
-        item_name: 'Indian Cricket ODI Jersey',
+        item_name: 'Wooden Box',
         original_price: 999,
         current_price: 999,
         discount_percentage: 0,
@@ -62,8 +62,8 @@ const items = [
     {
         id: '005',
         image: 'images/5.jpg',
-        company: 'Roadster',
-        item_name: 'Pure Cotton T-shirt',
+        company: 'Wooden ',
+        item_name: 'Wooden Container',
         original_price: 1399,
         current_price: 489,
         discount_percentage: 65,
@@ -120,8 +120,8 @@ const items = [
     {
         id: '009',
         image: 'images/13.jpg',
-        company: 'Nivea',
-        item_name: 'Men Fresh Deodrant 150ml',
+        company: 'T-Shirt',
+        item_name: 'Men T-Shirt',
         original_price: 285,
         current_price: 142,
         discount_percentage: 50,
@@ -135,8 +135,8 @@ const items = [
     {
         id: '009',
         image: 'images/14.jpg',
-        company: 'Nivea',
-        item_name: 'Men Fresh Deodrant 150ml',
+        company: 'T-Shirt',
+        item_name: 'Men T-Shirt',
         original_price: 285,
         current_price: 142,
         discount_percentage: 50,
@@ -150,8 +150,8 @@ const items = [
     {
         id: '015',
         image: 'images/13.jpg',
-        company: 'Nivea',
-        item_name: 'Men Fresh Deodrant 150ml',
+        company: 'T-Shirt',
+        item_name: 'Men T-Shirt',
         original_price: 285,
         current_price: 142,
         discount_percentage: 50,
@@ -165,8 +165,8 @@ const items = [
     {
         id: '016',
         image: 'images/14.jpg',
-        company: 'Nivea',
-        item_name: 'Men Fresh Deodrant 150ml',
+        company: 'T-Shirt',
+        item_name: 'Men T-Shirt',
         original_price: 285,
         current_price: 142,
         discount_percentage: 50,
@@ -180,8 +180,8 @@ const items = [
     {
         id: '017',
         image: 'images/14.jpg',
-        company: 'Nivea',
-        item_name: 'Men Fresh Deodrant 150ml',
+        company: 'T-Shirt',
+        item_name: 'Men T-Shirt',
         original_price: 285,
         current_price: 142,
         discount_percentage: 50,
@@ -210,7 +210,7 @@ const items = [
     {
         id: '019',
         image: 'images/16.jpg',
-        company: 'Nivea',
+        company: 'toy',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -225,7 +225,7 @@ const items = [
     {
         id: '020',
         image: 'images/17.jpg',
-        company: 'Nivea',
+        company: 'Writer tab',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -240,7 +240,7 @@ const items = [
     {
         id: '021',
         image: 'images/18.jpg',
-        company: 'Nivea',
+        company: 'Mouse',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -255,7 +255,7 @@ const items = [
     {
         id: '022',
         image: 'images/19.jpg',
-        company: 'Nivea',
+        company: 'Book',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -270,7 +270,7 @@ const items = [
     {
         id: '023',
         image: 'images/20.jpg',
-        company: 'Nivea',
+        company: 'T-Shirt',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -285,7 +285,7 @@ const items = [
     {
         id: '024',
         image: 'images/24.webp',
-        company: 'Nivea',
+        company: 'T-Shirt',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -300,7 +300,7 @@ const items = [
     {
         id: '025',
         image: 'images/22.jpg',
-        company: 'Nivea',
+        company: 'T-Shirt',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -315,7 +315,7 @@ const items = [
     {
         id: '026',
         image: 'images/23.jpg',
-        company: 'Nivea',
+        company: 'SSC Math',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -347,7 +347,7 @@ const items = [
     {
         id: '026',
         image: 'images/26.jpg',
-        company: 'Nivea',
+        company: '',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -363,7 +363,7 @@ const items = [
     {
         id: '026',
         image: 'images/27.jpg',
-        company: 'Nivea',
+        company: 'Towel',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -379,10 +379,10 @@ const items = [
     {
         id: '026',
         image: 'images/28.webp',
-        company: 'Nivea',
+        company: 'One Plus',
         item_name: 'Men Fresh Deodrant 150ml',
-        original_price: 285,
-        current_price: 142,
+        original_price: 28500,
+        current_price: 14200,
         discount_percentage: 50,
         return_period: 14,
         delivery_date: '10 Oct 2023',
@@ -395,7 +395,7 @@ const items = [
     {
         id: '026',
         image: 'images/30.jpg',
-        company: 'Nivea',
+        company: 'Red Me',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -411,7 +411,7 @@ const items = [
     {
         id: '026',
         image: 'images/31.jpg',
-        company: 'Nivea',
+        company: 'Red Me',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -427,7 +427,7 @@ const items = [
     {
         id: '026',
         image: 'images/32.jpg',
-        company: 'Nivea',
+        company: 'Back cover',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -443,7 +443,7 @@ const items = [
     {
         id: '026',
         image: 'images/33.jpg',
-        company: 'Nivea',
+        company: 'Samsung',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -458,7 +458,7 @@ const items = [
     {
         id: '026',
         image: 'images/34.jpg',
-        company: 'Nivea',
+        company: 'Samsung',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -473,7 +473,7 @@ const items = [
     {
         id: '026',
         image: 'images/35.jpg',
-        company: 'Nivea',
+        company: 'Samsung',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -488,7 +488,7 @@ const items = [
     {
         id: '026',
         image: 'images/36.jpg',
-        company: 'Nivea',
+        company: 'Red ME',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -503,7 +503,7 @@ const items = [
     {
         id: '026',
         image: 'images/37.jpg',
-        company: 'Nivea',
+        company: 'Red ME',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -518,7 +518,7 @@ const items = [
     {
         id: '026',
         image: 'images/38.jpg',
-        company: 'Nivea',
+        company: 'Back cover',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -533,7 +533,7 @@ const items = [
     {
         id: '026',
         image: 'images/39.jpg',
-        company: 'Nivea',
+        company: 'Mi',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -548,7 +548,7 @@ const items = [
     {
         id: '026',
         image: 'images/40.jpg',
-        company: 'Nivea',
+        company: 'Samsung',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -563,7 +563,7 @@ const items = [
     {
         id: '026',
         image: 'images/41.jpg',
-        company: 'Nivea',
+        company: 'Red ME',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -578,7 +578,7 @@ const items = [
     {
         id: '026',
         image: 'images/42.jpg',
-        company: 'Nivea',
+        company: 'One Plus',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -593,7 +593,7 @@ const items = [
     {
         id: '026',
         image: 'images/43.jpg',
-        company: 'Nivea',
+        company: 'Real ME',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -668,7 +668,7 @@ const items = [
     {
         id: '026',
         image: 'images/48.jpg',
-        company: 'Nivea',
+        company: 'Red Me',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -683,7 +683,7 @@ const items = [
     {
         id: '026',
         image: 'images/49.jpg',
-        company: 'Nivea',
+        company: 'Tshirt',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -698,7 +698,7 @@ const items = [
     {
         id: '026',
         image: 'images/50.jpg',
-        company: 'Nivea',
+        company: 'Samsung',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
@@ -713,7 +713,7 @@ const items = [
     {
         id: '026',
         image: 'images/51.jpg',
-        company: 'Nivea',
+        company: 'iPhone',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
         current_price: 142,
